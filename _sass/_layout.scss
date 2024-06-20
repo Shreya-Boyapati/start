@@ -6,6 +6,7 @@ body {
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
 }
+h6,
 h1,
 h2,
 h3 {
@@ -26,6 +27,15 @@ h1 {
 h2 {
 	font-size: 2em;
 	margin-top: 2em;
+}
+h6 {
+	color: $main;
+	font-size: 4em;
+	a,
+	a:visited {
+		text-decoration: none;
+		color: $main;
+	}
 }
 a,
 a:visited {
