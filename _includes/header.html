@@ -12,7 +12,31 @@
 	</div>
 </aside>
 
-<header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
-</header>
- 
+
+<head>
+<style>
+	.container {
+  		position: absolute;
+ 		text-align: center;
+  		color: black;
+	}
+
+	.centered {
+  		position: static;
+  		top: 50%;
+  		left: 30%;
+		font-size: 90px;
+  		transform: translate(50%, -300%);
+	}
+
+	img {
+	  opacity: 0.4;
+	}
+</style>
+</head>
+<body>
+	<div class="container">
+		<img src="backimg.jpg" style="width:200%;">
+		<div class="centered">Shreya Boyapati</div>
+	</div>	
+</body>
