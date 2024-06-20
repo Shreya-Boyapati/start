@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Test
+About content here.
+
+* A list item
+* Another list item
