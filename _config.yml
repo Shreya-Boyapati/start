@@ -1,12 +1,14 @@
 # Site Settings
 title: Start Jekyll
-email: taniarascia@gmail.com
+email:
 description: >
-  A guide to getting started with Jekyll.
+  Hello, I’m Shreya Boyapati, a computer science student with a passion for
+  software engineering and cloud computing. I am urrently pursuing a Master’s degree
+  at the University of Illinois at Urbana-Champaign.
 baseurl: "/start"
 url: "http://Shreya-Boyapati.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username:
+github_username:  Shreya-Boyapati
 # Build Settings
 sass:
   sass_dir: _sass
