@@ -47,6 +47,19 @@ permalink: /portfolio
     <center><a href="https://github.com/Shreya-Boyapati/Animated-Bar-Chart" style="font-size:20pt">Animated Bar Chart</a></center>
   </div>
   <div class="column">
+    <img src="_pages/simrank.png" style="width:100%;height:325px;">
+
+    <center><a href="https://github.com/Shreya-Boyapati/mySimRank" style="font-size:20pt">SimRank Algorithm</a></center>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="_pages/ptg.png" style="width:100%;height:325px;">
+
+    <center><a href="https://github.com/Shreya-Boyapati/PTGame" style="font-size:20pt">Policeman and Thief Game</a></center>
+  </div>
+  <div class="column">
     <img src="_pages/simplepy.png" style="width:100%;height:325px;">
 
     <center><a href="https://github.com/Shreya-Boyapati/SimplePy" style="font-size:20pt">Python to C++ Interpreter</a></center>
