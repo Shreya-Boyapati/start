@@ -3,5 +3,6 @@ layout: page
 title: Portfolio
 permalink: /portfolio
 ---
-![alt text](image.png)
-[Volcano](https://github.com/Shreya-Boyapati/Volcano)
+<img src="image.png" style="width:500px;height:600px;">
+
+<a href="https://github.com/Shreya-Boyapati/Volcano" style="font-size:20pt">Volcano</a>
