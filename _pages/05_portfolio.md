@@ -66,5 +66,18 @@ permalink: /portfolio
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="_pages/huffman.png" style="width:100%;height:325px;">
+
+    <center><a href="https://github.com/Shreya-Boyapati/File-Encoding" style="font-size:20pt">HuffMan Encoding</a></center>
+  </div>
+  <div class="column">
+    <img src="_pages/walker.png" style="width:100%;height:325px;">
+
+    <center><a href="https://github.com/Shreya-Boyapati/RandomWalker" style="font-size:20pt">Random Walker Algorithm</a></center>
+  </div>
+</div>
+
 </body>
 </html>
