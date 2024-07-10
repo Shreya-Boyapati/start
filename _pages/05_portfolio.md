@@ -29,25 +29,27 @@ permalink: /portfolio
 
 <div class="row">
   <div class="column">
-    <img src="_pages/image.png" style="width:100%">
+    <img src="_pages/volcano.png" style="width:100%;height:325px;">
 
-    <a href="https://github.com/Shreya-Boyapati/Volcano" style="font-size:20pt">Volcano Web Map</a>
+    <center><a href="https://github.com/Shreya-Boyapati/Volcano" style="font-size:20pt">Volcano Web Map</a></center>
   </div>
   <div class="column">
-    <img src="_pages/screenshot-6.png" style="width:100%">
+    <img src="_pages/booksdb.png" style="width:100%;height:325px;">
 
-    <a href="https://github.com/Shreya-Boyapati/Book_Database" style="font-size:20pt">Books Database</a>
+    <center><a href="https://github.com/Shreya-Boyapati/Book_Database" style="font-size:20pt">Books Database</a></center>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="_pages/image.png" style="width:100%">
+    <img src="_pages/barchartanimation.gif" style="width:100%;height:325px;">
 
-    <a href="https://github.com/Shreya-Boyapati/Volcano" style="font-size:20pt">Volcano</a>
+    <center><a href="https://github.com/Shreya-Boyapati/Animated-Bar-Chart" style="font-size:20pt">Animated Bar Chart</a></center>
   </div>
   <div class="column">
-    <img src="_pages/image.png" style="width:100%">
+    <img src="_pages/simplepy.png" style="width:100%;height:325px;">
+
+    <center><a href="https://github.com/Shreya-Boyapati/SimplePy" style="font-size:20pt">Python to C++ Interpreter</a></center>
   </div>
 </div>
 
