@@ -29,12 +29,12 @@ permalink: /portfolio
 
 <div class="row">
   <div class="column">
-    <img src="_pages/volcano.png" style="width:100%;height:325px;">
+    <img src="_pages/volcano.avif" style="width:100%;height:325px;">
 
     <center><a href="https://github.com/Shreya-Boyapati/Volcano" style="font-size:20pt">Volcano Web Map</a></center>
   </div>
   <div class="column">
-    <img src="_pages/booksdb.png" style="width:100%;height:325px;">
+    <img src="_pages/booksdb.avif" style="width:100%;height:325px;">
 
     <center><a href="https://github.com/Shreya-Boyapati/Book_Database" style="font-size:20pt">Books Database</a></center>
   </div>
@@ -55,7 +55,7 @@ permalink: /portfolio
 
 <div class="row">
   <div class="column">
-    <img src="_pages/ptg.png" style="width:100%;height:325px;">
+    <img src="_pages/ptg.avif" style="width:100%;height:325px;">
 
     <center><a href="https://github.com/Shreya-Boyapati/PTGame" style="font-size:20pt">Policeman and Thief Game</a></center>
   </div>
@@ -73,7 +73,7 @@ permalink: /portfolio
     <center><a href="https://github.com/Shreya-Boyapati/File-Encoding" style="font-size:20pt">HuffMan Encoding</a></center>
   </div>
   <div class="column">
-    <img src="_pages/walker.png" style="width:100%;height:325px;">
+    <img src="_pages/walker.avif" style="width:100%;height:325px;">
 
     <center><a href="https://github.com/Shreya-Boyapati/RandomWalker" style="font-size:20pt">Random Walker Algorithm</a></center>
   </div>
